@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @itskrishnaa
-- 👀 I’m interested in Coding...
-- 🌱 I’m currently learning CSE
+- 🌱 I’m currently learning New Tecnologies
 
 <!---
 itskrishnaa/itskrishnaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

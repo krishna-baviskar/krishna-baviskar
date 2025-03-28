@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 Hi!!! I'm Krishna Baviskar <br>🌱 I'm Recently Pursuing B.Tech in Computer Engineering<br>🔭 I’m currently working on AI and Software Developments<br>⚡ I’m currently learning New Technologies<br>
+🤝 Hi!!!! I'm Krishna Baviskar <br>🌱 I'm Recently Pursuing B.Tech in Computer Engineering<br>🔭 I’m currently working on AI and Software Developments<br>⚡ I’m currently learning New Technologies<br>
 
 
 ## 🌐 Socials:

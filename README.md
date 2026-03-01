@@ -1,6 +1,22 @@
-# 💫 About Me:
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Krishna S. Baviskar>🌱 I'm Recently Pursuing B.Tech in Computer Engineering<br>🔭 I’m currently working on AI and Software Developments<br>⚡ I’m currently learning New Technologies<br>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Krishna S. Baviskar
+============================================================================================================================================
 
+💻 Full-Stack Developer | ⚙️ DevOps Explorer | 🔐 Cybersecurity Enthusiast | 🤖 AI Learner 🎮 Gamer |
+-----------------------------------------------------------------------------------------------------
+
+🎓 Computer Engineering Student
+
+🚀 Building scalable web apps & experimenting with modern tech
+
+☁️ Exploring cloud, CI/CD & deployment workflows
+
+🔒 Passionate about secure systems & ethical hacking concepts
+
+🧠 Curious about AI and intelligent systems
+
+🎮 Gamer mindset: strategy, focus & performance
+
+⚡ Code. Secure. Deploy. Game. Repeat.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/krisfy_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/krishna-baviskar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@krishnabaviskar7973) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishnabaviskar40@gmail.com) 

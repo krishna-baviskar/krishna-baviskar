@@ -18,6 +18,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ⚡ Code. Secure. Deploy. Game. Repeat.
 
+* 🌍  I'm based in Pune 🇮🇳 India
+* ✉️  You can contact me at [krishnabaviskar40@gmail.com](mailto:krishnabaviskar40@gmail.com)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/krisfy_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/krishna-baviskar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@krishnabaviskar7973) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishnabaviskar40@gmail.com) 
 

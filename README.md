@@ -4,9 +4,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=💻+Full-Stack+Developer;⚙️+DevOps+%26+Cloud+Explorer;🔐+Cybersecurity+Enthusiast;🤖+AI+%26+ML+Curious+Mind;🎮+Gamer+Mindset+%7C+Strategic+Thinker;⚡+Code.+Secure.+Deploy.+Repeat.)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=krishna-baviskar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-&nbsp;[![GitHub followers](https://img.shields.io/github/followers/krishna-baviskar?style=for-the-badge&logo=github&color=0e75b6&labelColor=0D1117)](https://github.com/krishna-baviskar)
-&nbsp;[![GitHub Stars](https://img.shields.io/github/stars/krishna-baviskar?style=for-the-badge&logo=github&color=0e75b6&labelColor=0D1117)](https://github.com/krishna-baviskar)
+<img src="https://komarev.com/ghpvc/?username=krishna-baviskar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/krishna-baviskar?style=for-the-badge&logo=github&color=0e75b6&labelColor=0D1117&label=Followers" alt="GitHub Followers" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/krishna-baviskar?style=for-the-badge&logo=github&color=0e75b6&labelColor=0D1117&label=Stars" alt="GitHub Stars" />
 
 </div>
 

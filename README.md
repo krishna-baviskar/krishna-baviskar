@@ -145,7 +145,7 @@ Motto       : "Code. Secure. Deploy. Game. Repeat. ⚡"
 
 <div align="center">
 
-> 💡 **Tip:** Replace `repo=krishna-baviskar` above with your actual top repo names to showcase them here!
+
 
 </div>
 

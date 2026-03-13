@@ -6,9 +6,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=krishna-baviskar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/krishna-baviskar?style=for-the-badge&color=0e75b6)](https://github.com/krishna-baviskar)
+[![GitHub followers](https://img.shields.io/github/followers/krishna-baviskar?style=for-the-badge&logo=github&color=0e75b6&labelColor=0D1117)](https://github.com/krishna-baviskar)
 &nbsp;
-[![GitHub Stars](https://img.shields.io/github/stars/krishna-baviskar?style=for-the-badge&color=0e75b6)](https://github.com/krishna-baviskar)
+[![GitHub Stars](https://img.shields.io/github/stars/krishna-baviskar?style=for-the-badge&logo=github&color=0e75b6&labelColor=0D1117)](https://github.com/krishna-baviskar)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Astronaut Coding in Space" width="380" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"/>
 
 ```yaml
 Name        : Krishna S. Baviskar
@@ -127,7 +127,7 @@ Motto       : "Code. Secure. Deploy. Game. Repeat. ⚡"
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=krishna-baviskar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=krishna-baviskar&theme=matrix&no-frame=false&no-bg=true&margin-w=4&margin-h=4&column=7" alt="GitHub Trophies"/>
 
 </div>
 
@@ -137,7 +137,7 @@ Motto       : "Code. Secure. Deploy. Game. Repeat. ⚡"
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=krishna-baviskar&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributions"/>
+<img src="https://github-contributor-stats.vercel.app/api?username=krishna-baviskar&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributions"/>
 
 </div>
 
@@ -165,7 +165,7 @@ Motto       : "Code. Secure. Deploy. Game. Repeat. ⚡"
 
 </div>
 
-> ⚠️ **Note:** To activate the snake animation, go to your GitHub repo **Settings → Actions → General** and enable GitHub Actions. Then add the snake workflow file from [here](https://github.com/Platane/snk).
+
 
 ---
 

@@ -122,7 +122,7 @@ Motto       : "Code. Secure. Deploy. Game. Repeat. ⚡"
 </div>
 
 ---
-
+<!--
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -134,7 +134,7 @@ Motto       : "Code. Secure. Deploy. Game. Repeat. ⚡"
 </div>
 
 ---
-
+-->
 ## 🔝 Top Contributed Repos
 
 <div align="center">

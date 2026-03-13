@@ -127,7 +127,9 @@ Motto       : "Code. Secure. Deploy. Game. Repeat. ⚡"
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=krishna-baviskar&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=-1" alt="GitHub Trophies"/>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=krishna-baviskar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
+</a>
 
 </div>
 
@@ -143,6 +145,7 @@ Motto       : "Code. Secure. Deploy. Game. Repeat. ⚡"
 
 <div align="center">
 
+> 💡 **Tip:** Replace `repo=krishna-baviskar` above with your actual top repo names to showcase them here!
 
 </div>
 

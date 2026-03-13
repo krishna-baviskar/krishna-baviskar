@@ -127,7 +127,7 @@ Motto       : "Code. Secure. Deploy. Game. Repeat. ⚡"
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=krishna-baviskar&theme=matrix&no-frame=false&no-bg=true&margin-w=4&margin-h=4&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=krishna-baviskar&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=-1" alt="GitHub Trophies"/>
 
 </div>
 
@@ -137,7 +137,13 @@ Motto       : "Code. Secure. Deploy. Game. Repeat. ⚡"
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=krishna-baviskar&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributions"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=krishna-baviskar&repo=krishna-baviskar&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Repo 1"/>
+
+</div>
+
+<div align="center">
+
+> 💡 **Tip:** Replace `repo=krishna-baviskar` above with your actual top repo names to showcase them here!
 
 </div>
 

@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Krishna%20S.%20Baviskar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20DevOps%20Explorer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=16"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=💻+Full-Stack+Developer;⚙️+DevOps+%26+Cloud+Explorer;🔐+Cybersecurity+Enthusiast;🤖+AI+%26+ML+Curious+Mind;🎮+Gamer+Mindset+%7C+Strategic+Thinker;⚡+Code.+Secure.+Deploy.+Repeat.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=💻+Full-Stack+Developer;⚙️+DevOps+%26+Cloud+Explorer;🔐+Cybersecurity+Enthusiast;🤖+AI+%26+ML+Curious+Mind;🎮+Gamer+Mindset+%7C+Strategic+Thinker;⚡+Code.+Secure.+Deploy.+Repeat.)](https://git.io/typing-svg) 
 
 <img src="https://komarev.com/ghpvc/?username=krishna-baviskar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 &nbsp;

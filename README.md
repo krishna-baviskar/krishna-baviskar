@@ -1,4 +1,4 @@
-<div align="center">  
+<div align="center">   
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Krishna%20S.%20Baviskar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20DevOps%20Explorer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=16"/>
 
